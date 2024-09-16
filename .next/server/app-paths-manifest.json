@@ -1,15 +1,1 @@
-{
-  "/page": "app/page.js",
-  "/register/page": "app/register/page.js",
-  "/api/register/route": "app/api/register/route.js",
-  "/login/page": "app/login/page.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/menu-items/route": "app/api/menu-items/route.js",
-  "/profile/page": "app/profile/page.js",
-  "/api/profile/route": "app/api/profile/route.js",
-  "/menu-items/page": "app/menu-items/page.js",
-  "/api/categories/route": "app/api/categories/route.js",
-  "/categories/page": "app/categories/page.js",
-  "/menu-items/new/page": "app/menu-items/new/page.js"
-}
+{}
