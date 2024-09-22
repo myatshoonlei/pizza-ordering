@@ -23,8 +23,13 @@ Admin Panel: Admins can manage menu items, user accounts, and orders.
 
 ## 🛠️ Technologies Used
 Frontend: React.js, Next.js
+
 Backend: Next.js API routes
+
 Database: MongoDB (via MongoDB Atlas)
+
 Authentication: NextAuth.js (Google OAuth, credentials-based login)
+
 Payment Integration: Stripe
+
 Styling: TailwindCSS
