@@ -10,10 +10,15 @@ The app is deployed on Vercel and can be accessed here:
 ## 🛠️ Features
 
 User Authentication: Users can register, login via email/password or Google OAuth, and manage their profiles.
+
 Menu Display: Dynamic pizza menu with size and extra toppings options.
+
 Add to Cart: Users can add pizzas to their cart, customize them, and view their cart summary.
+
 Checkout Process: Integration with Stripe for secure payments.
+
 Order Tracking: Users can track their past orders, including their status (paid/unpaid).
+
 Admin Panel: Admins can manage menu items, user accounts, and orders.
 
 ## 🛠️ Technologies Used
